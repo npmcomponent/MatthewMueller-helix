@@ -2,7 +2,7 @@
  * Module dependencies
  */
 
-var classes = require('classes');
+var classes = require('component-classes');
 
 /**
  * Export `Helix`
